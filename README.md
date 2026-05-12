@@ -1,1 +1,7 @@
-# ejercicio1_michelle_altamirano
+### Programacion 1 
+
+**Nombre: Michelle Stephania Altamirano**
+
+**Profesor: Eddy Mauricio Armas**
+
+**Semestre: Segundo**
